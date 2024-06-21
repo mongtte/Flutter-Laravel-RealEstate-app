@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604664812017",
+    "project_id": "horecah-e959f",
+    "storage_bucket": "horecah-e959f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604664812017:android:d1496343c8c54ed425b450",
+        "android_client_info": {
+          "package_name": "com.example.hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604664812017-uvf3ju1efa8666n3bcv4db4jio90vq8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVg8L68dT1lsh-fcWAH71ih6_vkrJZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604664812017-uvf3ju1efa8666n3bcv4db4jio90vq8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

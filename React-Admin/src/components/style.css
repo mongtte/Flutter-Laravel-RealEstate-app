@@ -1,0 +1,23 @@
+.custom-scrollbar {
+/* Set the width and height of the scrollbar */
+scrollbar-width: thin;
+scrollbar-color: #E361F0 #e1e1e1; /* thumbColor trackColor */
+}
+
+/* Track */
+.custom-scrollbar::-webkit-scrollbar-track {
+background: #e1e1e1; /* color of the track */
+border-radius: 6px; /* radius of the track */
+}
+
+/* Handle */
+.custom-scrollbar::-webkit-scrollbar-thumb {
+background: #E361F0; /* color of the thumb */
+border-radius: 6px; /* radius of the thumb */
+}
+
+/* Handle on hover */
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+background: #6C5E8D; /* color of the thumb on hover */
+        }
+        

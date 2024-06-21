@@ -1,0 +1,25 @@
+@tailwind base;
+
+@layer base {
+    html {
+        --color-color1: #0F636A;
+        --color-color2: #0FE3AF;
+        --color-color3: #F2BB16;
+        --color-color4: #0152A8;
+        --color-color5: #D9D9D9;
+        --color-color6: #F1F1F1;
+        --color-color7: #FAFAFB;
+        --color-color8: #DCEDFE;
+        --color-tcolor1: #545454;
+        --color-tcolor2: #1C1C1C;
+        --color-tcolor3: #40BFFF;
+    }
+
+    body {
+        font-family: "Quicksand";
+        background-color: white;
+    }
+}
+
+@tailwind components;
+@tailwind utilities;
